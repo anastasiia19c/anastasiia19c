@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anastasiia</h1>
-<h3 align="center">💻 Web Developer | 🌍 4 Languages | 🚀 Looking for a 6-month internship from February</h3>
+<h3 align="center">💻 Web Developer | 🌍 4 Languages </h3>
 
 <p align="center">
   <a href="mailto:anastasiia.tatkova@uha.fr">

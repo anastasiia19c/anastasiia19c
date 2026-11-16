@@ -38,10 +38,11 @@ I build modern web applications with a focus on clean architecture, user experie
 ## 🌍 Languages
 
 <p align="left">
-  <img src="assets/icons/lang-ru.png" width="64" height="64" alt="Russian" title="Russian" />
-  <img src="assets/icons/lang-ua.png" width="64" height="64" alt="Ukrainian" title="Ukrainian" />
   <img src="assets/icons/lang-fr.png" width="64" height="64" alt="French" title="French" />
   <img src="assets/icons/lang-en.png" width="64" height="64" alt="English" title="English" />
+  <img src="assets/icons/lang-ua.png" width="64" height="64" alt="Ukrainian" title="Ukrainian" />
+  <img src="assets/icons/lang-ru.png" width="64" height="64" alt="Russian" title="Russian" />
+
 </p>
 
 ## ✨ What I Build
